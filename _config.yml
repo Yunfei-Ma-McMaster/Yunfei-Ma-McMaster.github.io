@@ -18,19 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Yunfei Ma's Personal Website
+email: ma110 [at] mcmaster [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://yunfei-ma-mcmaster.github.io/"
+
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
@@ -53,3 +52,41 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      # settings about minimal-mistakes-jekyll
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      toc: false
+      show_date: true
+
+# author
+author:
+  name: "Yunfei Ma"
+  url: "https://yunfei-ma-mcmaster.github.io/"
+  avatar: "/assets/profile.jpg"
+  bio: "Yunfei Ma is a PhD Student"
+  location: "Hamilton, Ontario, Canada"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Yunfei-Ma-McMaster"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/yunfei-ma-7477671b3/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/fabio8406"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/yunfeimacdc/"

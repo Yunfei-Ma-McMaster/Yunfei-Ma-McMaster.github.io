@@ -1,18 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: single
+classes: wide
+author_profile: true
+title: About Yunfei Ma
+permalink: /
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My name is Yunfei Ma. I am a Ph.D. student in [computational science and engineering (CSE)](https://cse.mcmaster.ca/people/graduate-students.html) at [McMaster University](https://www.mcmaster.ca/). I am also a research consultant at [Geotab Inc.](https://www.geotab.com/) working on freight transportation insights. My research focuses on vehicle telematics data modeling and visualization. My mission is to tackle traffic congestion through big data and high-performance computing. I believe the next decade is the decade of smart transportation. 
