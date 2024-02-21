@@ -20,10 +20,8 @@
 
 title: Yunfei Ma's Personal Website
 email: ma110 [at] mcmaster [dot] com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: > 
+  I share my thoughts and projects here
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://yunfei-ma-mcmaster.github.io/"
 
@@ -75,7 +73,7 @@ author:
   name: "Yunfei Ma"
   url: "https://yunfei-ma-mcmaster.github.io/"
   avatar: "/assets/profile.jpg"
-  bio: "Yunfei Ma is a PhD Student"
+  bio: "Amusing and confusing"
   location: "Hamilton, Ontario, Canada"
   links:
     - label: "GitHub"
