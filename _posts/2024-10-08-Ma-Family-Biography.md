@@ -428,7 +428,7 @@ layout: three-columns
 
 <div class="family-history-column-image">
     <h2>Original Script</h2>
-    <img src="{{ '/assets/ma_bio_scriptures/Cover.jpg' | relative_url }}" alt="Original Scripture Cover">
+    <img src="{{ '/assets/ma_bio_scriptures/Cover.JPG' | relative_url }}" alt="Original Scripture Cover">
     <img src="{{ '/assets/ma_bio_scriptures/Page1.jpeg' | relative_url }}" alt="Original Scripture page 1">
     <img src="{{ '/assets/ma_bio_scriptures/page2.jpeg' | relative_url }}" alt="Original Scripture page 2">
     <img src="{{ '/assets/ma_bio_scriptures/page3.jpeg' | relative_url }}" alt="Original Scripture page 3">
