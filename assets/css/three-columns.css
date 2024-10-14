@@ -1,8 +1,9 @@
 body {
   font-family: Arial, sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 1.4;
   margin-bottom: 1em; /* Space between paragraphs */
+  margin-left: 1em;
   color: #333;
   background-color: #fff;
 }
@@ -49,7 +50,7 @@ body {
 }
 
 .family-history-column-image img {
-  width: 85%; /* Ensures the image fills the column width */
+  width: 100%; /* Ensures the image fills the column width */
   max-width: 90%; /* Prevents image from exceeding its original size */
   height: auto; /* Maintains aspect ratio */
   border-radius: 20px;

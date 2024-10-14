@@ -6,6 +6,10 @@ toc: false
 layout: three-columns
 ---
 
+This text is a biography of the Ma family, compiled in 1983, and it provides a detailed account of my family's history and struggles in Sichuan, China. Starting with the late Ming and early Qing dynasties, the text recounts the family's hardship, poverty, and resilience in the face of various societal changes, including war, migration, and political upheaval. It chronicles the lives of the family members, highlighting their individual struggles and achievements, emphasizing their strong family bonds and their dedication to their family's prosperity. The biography also provides a glimpse into the social and economic changes experienced in China during the first half of the 20th century, from the decline of the old society to the emergence of a socialist system.
+
+You can also listen to the short [Podcast: Biography of the Ma Family](https://spotifyanchor-web.app.link/e/fZOzvBZ1FNb) generate by NodebookLM. 
+
 <div class="family-history-container">
     <div class="family-history-column-eng">
         <h2>English Translation</h2>
@@ -449,3 +453,4 @@ layout: three-columns
 
 
 ![Family Tree](../assets/ma_bio_scriptures/FamilyTree.png)
+
