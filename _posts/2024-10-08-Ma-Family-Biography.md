@@ -66,7 +66,7 @@ You can also listen to the short [Podcast: Biography of the Ma Family](https://s
 <section>
     <h2>1. Great-Great-Grandfather Ma Xingzhi (马興志)</h2>
     <p>
-    Great-grandfather, unable to make a living in his hometown as a young man, sought refuge with his brother-in-law’s family, the Li’s (李家), in Peng County (彭县). Living under their roof, he struggled to survive. Later, he built a straw hut behind Longyu Temple (隆舆寺). Despite working hard as a laborer daily, life remained difficult. Facing the threats of hunger and cold, he sought another way to make a living. Thanks to financial help from the Li family, he was able to rent land at Caishen Temple (财神庙) on Taiping Street (太平街) and set up a modest home with two rooms and basic furniture. Gradually, life improved, and he started a sedan-chair business (轿房). Great-grandfather married Sun (孙氏) and had two sons and one daughter: Ma Xianfa (马贤法), Ma Xiangui (马贤贵), and the daughter married into the Xiao family (萧家, Xiao Zhengbang 肖正邦). Great-grandfather’s younger son, Ma Xiangui, left to seek fortune elsewhere and never returned. Great-grandfather later passed away by suicide, hanging himself due to the overwhelming burdens of poverty and sickness. Afterward, his wife remarried into the Xu family (徐家) at Aochang (敖场). These events paint a tragic picture of the family’s suffering.
+    Great-grandfather, unable to make a living in his hometown as a young man, sought refuge with his brother-in-law’s family, the Li’s (李家), in Peng County (彭县). Living under their roof, he struggled to survive. Later, he built a straw hut behind Longxing Temple (隆興寺). Despite working hard as a laborer daily, life remained difficult. Facing the threats of hunger and cold, he sought another way to make a living. Thanks to financial help from the Li family, he was able to rent land at Caishen Temple (财神庙) on Taiping Street (太平街) and set up a modest home with two rooms and basic furniture. Gradually, life improved, and he started a sedan-chair business (轿房). Great-grandfather married Sun (孙氏) and had two sons and one daughter: Ma Xianfa (马贤法), Ma Xiangui (马贤贵), and the daughter married into the Xiao family (萧家, Xiao Zhengbang 肖正邦). Great-grandfather’s younger son, Ma Xiangui, left to seek fortune elsewhere and never returned. Great-grandfather later passed away by suicide, hanging himself due to the overwhelming burdens of poverty and sickness. Afterward, his wife remarried into the Xu family (徐家) at Aochang (敖场). These events paint a tragic picture of the family’s suffering.
     </p>
 </section>
 
@@ -278,7 +278,7 @@ You can also listen to the short [Podcast: Biography of the Ma Family](https://s
 <section>
     <h2>一. 高祖父（马興志）</h2>
     <p>
-    高祖父，青年时在本地不能谋生，奔来彭县依靠姐夫李家寄人籬下为生，后又在隆舆寺背后搭草棚棲身。每日以苦力劳动，生活仍难维持。在饥寒的威胁下、只得另求生计。幸亏李氏资助，才将太平街财神庙之屋基地租下，搭草房二间，制点简单家具，开设轎房，因此生活逐渐有所好轉。高祖父娶孙氏为妻，生二子一女。（马贤法，马贤贵）一女出嫁萧家，（即肖正邦）曾祖父之弟马贤贵因不耐困苦，又外出谋生，一去即杳无音讯。曾祖父娶妻陈氏，虽然成了家，但仍然在饥饿的生活道路上挣扎。高祖父因家庭生活重担所迫，在贫病交迫之际，竞悬梁自尽。后高祖母又改嫁敖场徐家。我们可以想象这是多么悽惨的情景。
+    高祖父，青年时在本地不能谋生，奔来彭县依靠姐夫李家寄人籬下为生，后又在隆興寺背后搭草棚棲身。每日以苦力劳动，生活仍难维持。在饥寒的威胁下、只得另求生计。幸亏李氏资助，才将太平街财神庙之屋基地租下，搭草房二间，制点简单家具，开设轎房，因此生活逐渐有所好轉。高祖父娶孙氏为妻，生二子一女。（马贤法，马贤贵）一女出嫁萧家，（即肖正邦）曾祖父之弟马贤贵因不耐困苦，又外出谋生，一去即杳无音讯。曾祖父娶妻陈氏，虽然成了家，但仍然在饥饿的生活道路上挣扎。高祖父因家庭生活重担所迫，在贫病交迫之际，竞悬梁自尽。后高祖母又改嫁敖场徐家。我们可以想象这是多么悽惨的情景。
     </p>
 </section>
 
