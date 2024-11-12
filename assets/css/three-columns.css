@@ -1,0 +1,96 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  margin-bottom: 1em; /* Space between paragraphs */
+  margin-left: 1em;
+  color: #333;
+  background-color: #fff;
+}
+
+/* Custom styles for Family History post */
+.family-history-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.family-history-column-eng {
+  width: 55%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.family-history-column-chi {
+  width: 30%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.family-history-column-image {
+  width: 15%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.family-history-column-image img {
+  width: 100%; /* Ensures the image fills the column width */
+  max-width: 90%; /* Prevents image from exceeding its original size */
+  height: auto; /* Maintains aspect ratio */
+  border-radius: 20px;
+}
+
+.family-history-column-eng h2, .family-history-column-chi h2 {
+  text-align: center;
+  color: #333;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.family-history-column-eng p, .family-history-column-chi p {
+  line-height: 1.6;
+  color: #555;
+}
+
+/* Responsive design for Family History post */
+@media (max-width: 992px) {
+  .family-history-column-eng, 
+  .family-history-column-chi, 
+  .family-history-column-image {
+      width: 48%; /* Two columns on medium screens */
+  }
+}
+
+@media (max-width: 768px) {
+  .family-history-column-eng, 
+  .family-history-column-chi, 
+  .family-history-column-image {
+      width: 100%; /* Stack all columns vertically on tablets and smaller screens */
+  }
+}
+
+@media (max-width: 600px) {
+  .family-history-column-eng, 
+  .family-history-column-chi, 
+  .family-history-column-image {
+      width: 100%; /* Stack all columns vertically on small screens */
+      margin-bottom: 10px; /* Reduce margin for smaller screens */
+  }
+}

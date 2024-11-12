@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  margin-bottom: 1em; /* This is the space between paragraphs. Adjust as needed. */
+  color: #333;
+  background-color: #fff;
+}
+
+/* Mobile first: default styles for small screens */
+.left-third {
+  width: 100%;
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* Larger screens: styles for screens larger than 768px */
+@media (min-width: 768px) {
+  .left-third {
+    width: 30%;
+    float: left;
+    padding-left: 30px;
+    max-width: 800px;
+  }
+}
